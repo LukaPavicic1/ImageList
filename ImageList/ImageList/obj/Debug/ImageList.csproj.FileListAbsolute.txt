@@ -1,0 +1,10 @@
+C:\Users\korisnik\source\repos\ImageList\ImageList\obj\Debug\ImageList.csproj.SuggestedBindingRedirects.cache
+C:\Users\korisnik\source\repos\ImageList\ImageList\obj\Debug\ImageList.Form1.resources
+C:\Users\korisnik\source\repos\ImageList\ImageList\obj\Debug\ImageList.Properties.Resources.resources
+C:\Users\korisnik\source\repos\ImageList\ImageList\obj\Debug\ImageList.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\ImageList\ImageList\obj\Debug\ImageList.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\ImageList\ImageList\bin\Debug\ImageList.exe.config
+C:\Users\korisnik\source\repos\ImageList\ImageList\bin\Debug\ImageList.exe
+C:\Users\korisnik\source\repos\ImageList\ImageList\bin\Debug\ImageList.pdb
+C:\Users\korisnik\source\repos\ImageList\ImageList\obj\Debug\ImageList.exe
+C:\Users\korisnik\source\repos\ImageList\ImageList\obj\Debug\ImageList.pdb
